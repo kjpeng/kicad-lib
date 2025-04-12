@@ -7557,6 +7557,8 @@
 					)
 				)
 			)
+		)
+		(symbol "KMR221NG_LFS_1_1"
 			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
@@ -7567,7 +7569,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7585,7 +7587,7 @@
 						)
 					)
 				)
-				(number "4"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)

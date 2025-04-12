@@ -7795,7 +7795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+		(property "Description" "Power symbol creates a global label with name \"PWR_GND\" , ground"
 			(at 0 0 0)
 			(effects
 				(font
